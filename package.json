@@ -1,0 +1,14 @@
+{
+  "name": "given-an-array-of-integers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "node two-sum-solution.cjs",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.2.0"
+  }
+}
